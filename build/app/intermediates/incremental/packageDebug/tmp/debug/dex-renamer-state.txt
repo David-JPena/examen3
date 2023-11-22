@@ -1,0 +1,4 @@
+#Tue Nov 21 20:03:35 PET 2023
+base.0=D\:\\Documentos\\examen3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
